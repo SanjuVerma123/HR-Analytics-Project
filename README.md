@@ -184,7 +184,7 @@ Attrition Rate
 
 SANJU VERMA
 
-<img src="Sanju_Linkedin_photo.jpeg" width="120" style="border-radius:50%;">
+<img src="Sanju_Linkedin_photo.png" width="120" style="border-radius:50%;">
 
 Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
