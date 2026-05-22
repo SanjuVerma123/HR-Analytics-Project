@@ -9,7 +9,7 @@
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-purple?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-orange?style=for-the-badge)
 
-<img src="Linkedin_profile_PHOTO.jpeg" width="120" style="border-radius:50%;">
+<img src="Sanju_Linkedin_photo.jpeg" width="120" style="border-radius:50%;">
 
 ## 📊 End-to-End HR Analytics Project
 
