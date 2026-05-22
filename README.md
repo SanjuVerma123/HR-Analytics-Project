@@ -142,7 +142,7 @@ This dashboard solves these problems by providing a centralized HR analytics sol
 
 ### Dashboard Page 3 – Attrition Analysis
 
-<img src="hr_dashboard_attrition.png" width="100%">
+<img src="hr_dashboard_attrition.jpeg" width="100%">
 
 ### Dashboard Page 4 – Performance & Compensation
 
