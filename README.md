@@ -84,7 +84,7 @@ Promotion delays
 Lack of diversity insights
 
 This dashboard solves these problems by providing a centralized HR analytics solution.
----
+
 
 ## 📈 Dashboard Features
 ✅ KPI Cards
@@ -96,7 +96,7 @@ Average Tenure Stayed – 7.37 years
 Average Tenure Leave – 5.13 years
 Average Training Hours – 2.80
 Highest Employee Salary – 20K
----
+
 
 ## 📊 Dashboard Visuals
 
@@ -127,7 +127,7 @@ Performance Rating Distribution (Avg Rating 3.15)
 Average Training Hours vs Performance
 Salary vs Experience
 Avg Salary per Department
----
+
 
 ## 📷 Dashboard Preview
 
@@ -147,7 +147,7 @@ Avg Salary per Department
 
 <img src="hr_dashboard_performance.png" width="100%">
 📌 Important Power BI Measures (DAX)
----
+
 
 Employee Count
 
@@ -160,7 +160,7 @@ Attrition Count = CALCULATE([Employee Count], Employee[Attrition] = "Yes")
 Attrition Rate
 
 Attrition Rate = DIVIDE([Attrition Count], [Employee Count]) * 100
----
+
 
 ## 🗄️ Python Analysis Included
 Employee Count Analysis
@@ -177,7 +177,7 @@ Gender diversity – 60% Male, 40% Female
 Avg Salary – 6.51K; Highest – 20K
 Performance vs Training Hours insights
 Attrition trend spikes at specific tenure periods
----
+
 
 ## 👨‍💻 Author
 
@@ -193,7 +193,7 @@ Real-time HR Monitoring
 Employee Recommendation System
 Cloud Deployment
 Advanced Workforce Forecasting
----
+
 
 ## 📚 Learning Outcomes
 Power BI Dashboard Development
@@ -203,7 +203,7 @@ Data Cleaning
 HR Analytics Concepts
 Interactive Data Visualization
 Business Intelligence Reporting
----
+
 
 ## ⭐ Support
 
@@ -212,7 +212,7 @@ If you found this project helpful:
 Star this repository
 Fork this repository
 Share with others
----
+
 
 ## 📜 License
 
