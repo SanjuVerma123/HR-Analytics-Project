@@ -69,6 +69,7 @@ The goal of this project is to convert raw HR data into meaningful business insi
 ├── 🗄️ HR_EDA.py
 ├── 📄 HR_Dashboard.pbix
 └── 📄 README.md
+```
 
 ---
 
