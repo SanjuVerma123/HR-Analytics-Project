@@ -133,19 +133,19 @@ This dashboard solves these problems by providing a centralized HR analytics sol
 
 ### Dashboard Page 1 – Overview
 
-<img src="hr_dashboard_overview.png" width="100%">
+<img src="AA.png" width="100%">
 
 ### Dashboard Page 2 – Employee Demographics
 
-<img src="hr_dashboard_demographics.png" width="100%">
+<img src="BB.png" width="100%">
 
 ### Dashboard Page 3 – Attrition Analysis
 
-<img src="hr_dashboard_attrition.jpeg" width="100%">
+<img src="CC.jpeg" width="100%">
 
 ### Dashboard Page 4 – Performance & Compensation
 
-<img src="hr_dashboard_performance.png" width="100%">
+<img src="DD.png" width="100%">
 📌 Important Power BI Measures (DAX)
 
 
